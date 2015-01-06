@@ -1,0 +1,61 @@
+IntraClip Change Log
+====================
+
+Version 0.8.2.2 January 6, 2015
+-------------------------------
+- Chg: HotKey changed from <Ctrl><Alt>c to <Ctrl><Shift>c because of issues with some keyboard layouts.
+- Bug: Minor UI fix.
+
+Version 0.8.2.1 April 8, 2014
+-----------------------------
+- Bug: Fix translations.
+- Enh: Italicize file drop list.
+- Chg: Replaced icon.
+- Chg: Drop legacy Windows XP support.
+
+Version 0.8.2.0 November 10, 2013
+---------------------------------
+- Bug: Line breaks from different environments are not correctly formatted.
+- Enh: Add image dimensions.
+- Enh: Improved internationalization.
+
+Version 0.8.1.1 February 26, 2013
+---------------------------------
+- Chg: Tweak data types priority.
+
+Version 0.8.1.0 February 17, 2013
+---------------------------------
+- Enh: Minor enhancements.
+- Chg: Switch from .NET Framework 2.0 to .NET Framework 4.
+- New: HotKey to invoke the history menu strip (<Ctrl><Alt>c).
+- New: Thumbnail for image objects.
+
+Version 0.8.0.0 November 20, 2011
+---------------------------------
+- Enh: Items counter to better distinguish between different audio and image objects.
+- Enh: Minor enhancements.
+- Chg: Customized icon colors.
+- Chg: Long descriptions are truncated in the middle instead of the end.
+- Chg: Maximum description length has been shortened to 35 characters.
+- Chg: Minor code refactoring.
+- New: Italian translation.
+- New: Number of items in history is configurable (default: 20).
+
+Version 0.7.3.0 June 15, 2011
+-----------------------------
+- Bug #2: Explorer.EXE crashes on some systems (workaround for the Windows 7 x64 bug).
+- Enh: Minor enhancements.
+- New: Exceptions log to file.
+
+Version 0.7.2.0 May 20, 2011
+----------------------------
+- Bug #1: Right-click on the notify icon triggers the wrong context menu strip by default.
+- Enh: Minor enhancements.
+
+Version 0.7.1.0 May 14, 2011
+----------------------------
+- Enh: Use AddClipboardFormatListener if available.
+
+Version 0.7.0.0 May 8, 2011
+---------------------------
+- First public release.
