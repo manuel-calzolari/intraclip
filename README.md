@@ -1,3 +1,11 @@
+- - -
+
+**_This project is not maintained since October 2018._**
+
+Windows 10 October 2018 Update provides a built-in [clipboard history](https://support.microsoft.com/en-us/help/4028529/windows-10-clipboard).
+
+- - -
+
 intraclip
 =========
 
